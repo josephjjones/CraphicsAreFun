@@ -1,32 +1,7 @@
-# Prerequisites
-*.d
+image
+imageproc
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#Added by cargo
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+/target
+**/*.rs.bk
